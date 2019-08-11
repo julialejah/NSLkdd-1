@@ -1,0 +1,6 @@
+@relation 'KDDTest-21'
+@attribute 'duration' real
+@attribute 'protocol_type' {'tcp','udp', 'icmp'} 
+@data
+13,tcp
+0,udp
